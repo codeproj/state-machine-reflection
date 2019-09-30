@@ -1,0 +1,15 @@
+{
+  "name": "state-machine",
+  "version": "1.0.0",
+  "devDependencies": {
+    "rxjs": "^6.5.3",
+    "typescript": "^3.6.3",
+    "ts-simple-ast": "^21.0.4"
+  },
+  "scripts": {
+    "start": "node out/app.js",
+    "prestart": "npm run build",
+    "build": "tsc"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,7 @@
+
+    [{
+        "name": "ExampleMachine",
+        "states": ["AddState", "RemoveState", "CompleteState", "FailedState", "StartState"],
+        "description": "Some Example"
+    }]
+
